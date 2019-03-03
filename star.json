@@ -1,19 +1,9 @@
 {
   "refs": [
     {
-      "version": "0",
+      "version": "0.1.1",
       "path": "",
       "hash": "0_0_0_0_0_0_0_0"
     },
-    {
-      "path": "Hello",
-      "version": "1",
-      "hash": "Test_Hash"
-    },
-    {
-      "path": "Hello",
-      "version": "0",
-      "hash": "861_1771_55_5_165_502_7478_1554073199"
-    }
   ]
 }
