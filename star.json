@@ -4,6 +4,11 @@
       "version": 0,
       "path": "",
       "hash": "0_0_0_0_0_0_0_0"
+    },
+    {
+      "path": "Hello",
+      "version": "1",
+      "hash": "Test_Hash"
     }
   ]
 }
