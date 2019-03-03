@@ -7,7 +7,7 @@
     },
     {
       "path": "Hello",
-      "version": "1",
+      "version": 1,
       "hash": "Test_Hash"
     }
   ]
