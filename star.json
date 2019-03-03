@@ -1,13 +1,13 @@
 {
   "refs": [
     {
-      "version": 0,
+      "version": "0",
       "path": "",
       "hash": "0_0_0_0_0_0_0_0"
     },
     {
       "path": "Hello",
-      "version": 1,
+      "version": "1",
       "hash": "Test_Hash"
     },
     {
