@@ -9,6 +9,11 @@
       "path": "Hello",
       "version": 1,
       "hash": "Test_Hash"
+    },
+    {
+      "path": "Hello",
+      "version": "0",
+      "hash": "861_1771_55_5_165_502_7478_1554073199"
     }
   ]
 }
