@@ -1,3 +1,11 @@
 {
-  "refs": []
+  "refs" : [
+    {
+      "version" : "0.1",
+      "path" : "https://raw.githubusercontent.com/Brozh/Jade-StaticRef/master/star/0.1/star_0.1(1).zip",
+      "hash" : "870_1807_57_5_167_529_7783_1649627999",
+      "date" : "2022-03-17T03:51:33Z",
+      "build" : 1
+    }
+  ]
 }
