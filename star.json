@@ -13,6 +13,13 @@
       "hash" : "871_1807_58_5_167_529_7766_1655071199",
       "date" : "2022-04-27T02:51:32Z",
       "build" : 1
+    },
+    {
+      "version" : "0.2",
+      "path" : "https://raw.githubusercontent.com/Brozh/Jade-StaticRef/master/star/0.2/star_0.2(2).zip",
+      "hash" : "872_1815_57_0_167_529_7746_1661723999",
+      "date" : "2022-08-23T00:49:59Z",
+      "build" : 2
     }
   ]
 }
